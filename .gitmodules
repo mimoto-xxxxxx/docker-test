@@ -1,0 +1,3 @@
+[submodule "docker-chrome-selenium"]
+	path = docker-chrome-selenium
+	url = https://github.com/peroumal1/docker-chrome-selenium.git
